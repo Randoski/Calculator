@@ -4,8 +4,6 @@ while (isNaN(firstNumber)) {
     firstNumber = prompt('Please insert a valid number');
 }
 
-whil
-
 
 let operator = prompt('Add an operator (+, -, /, *)')
  // confirm that operator is a valid operator
